@@ -1,0 +1,25 @@
+{
+  "name": "floatme-backend-technical-challenge",
+  "version": "1.0.0",
+  "description": "Floatme backend technical challenge in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donelleharris/floatme-backend-technical-challenge.git"
+  },
+  "author": "Donelle Harris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donelleharris/floatme-backend-technical-challenge/issues"
+  },
+  "homepage": "https://github.com/donelleharris/floatme-backend-technical-challenge#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.13",
+    "nodemon": "^2.0.7"
+  }
+}
